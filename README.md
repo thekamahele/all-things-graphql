@@ -5,6 +5,7 @@ A hodge podge of resources for learning and building with GraphQL
 
 - [Learn GraphQL](http://graphql.org/)
 - [How to GraphQL](https://www.howtographql.com/)
+- [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql) <--- Even more resources!
 
 ## Blog Posts
 
